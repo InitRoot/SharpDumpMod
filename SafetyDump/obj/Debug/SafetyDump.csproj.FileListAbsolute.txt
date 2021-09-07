@@ -1,0 +1,2 @@
+C:\Users\FransBotes\Desktop\SafetyDump-master\SafetyDump-master\SafetyDump\obj\Debug\SafetyDump.csprojAssemblyReference.cache
+C:\Users\FransBotes\Desktop\SafetyDump-master\SafetyDump-master\SafetyDump\obj\Debug\SafetyDump.csproj.CoreCompileInputs.cache
